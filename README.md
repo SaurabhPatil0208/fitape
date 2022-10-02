@@ -1,6 +1,7 @@
 #### This is How it Looks like...
 
-![image](https://user-images.githubusercontent.com/53295282/193456982-c98e04a6-e6cb-4985-b454-6715c63bfe38.png)
+![image](https://user-images.githubusercontent.com/87910834/193457383-4d1d309d-7cb5-4537-9d33-29c1441575c9.png)
+
 
 
 
@@ -8,7 +9,7 @@
 An open-source project for ROSP Lab based on Gym website
 
 
-- [Deployment link](https://)
+- [Deployment link](https://saurabhpatil0208.github.io/fitape/)
 
 
 
