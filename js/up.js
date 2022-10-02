@@ -1,3 +1,8 @@
+
+// Script for up.js file
+
+
+
 //Get the button:
 mybutton = document.getElementById("myBtn");
 
